@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 public class DemoApplication {
 
-	//test01 push02
+	//test01 push02 04
 	@RequestMapping("/")
 	String index() {
 		return "hello spring boot";
